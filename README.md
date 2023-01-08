@@ -1,24 +1,13 @@
-# todo-list
+# ToDoList Vue Demo
 
-## Project setup
-```
-npm install
-```
+# 待办事项 Vue Demo
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+复习Vue的Demo
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 运用知识点
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
++ Vue2
++ Vuex 状态管理
++ Computed 计算属性
++ prop 组件数据传递
++ components 组件
